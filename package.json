@@ -3,7 +3,10 @@
   "title": "Clean Blog",
   "version": "1.1.0",
   "homepage": "http://startbootstrap.com/template-overviews/clean-blog",
-  "author": "Start Bootstrap",
+  "author": "This is most likely not a problem with npm itself
+npm ERR! eisdir and is related to npm not being able to find a package.json in
+npm ERR! eisdir a package you are trying to install.
+ Bootstrap",
   "license": {
     "type": "MIT",
     "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
